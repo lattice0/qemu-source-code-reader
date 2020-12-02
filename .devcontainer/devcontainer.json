@@ -1,0 +1,11 @@
+{
+    "name": "Qemu Source Code Reader",
+    "dockerFile": "../docker/Dockerfile",
+    "extensions": [
+        "dracula-theme.theme-dracula",
+        "ms-vscode.cpptools",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+    ],
+    "workspaceFolder": "/home/project"
+}
